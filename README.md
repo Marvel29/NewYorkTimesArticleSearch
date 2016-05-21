@@ -1,4 +1,4 @@
-# Project 1 - *New York Times Article Search*
+# Project 2 - *New York Times Article Search*
 
 
 Time spent: **5** hours spent in total
@@ -10,9 +10,9 @@ The following **required** functionality is completed:
 * [x] User can enter a search query that will display a grid of news articles using the thumbnail and headline from the New York Times Search API
 * [x] User can click on "settings" which allows selection of advanced search options to filter results
 * [x] User can configure advanced search filters such as
-       Begin Date (**using a date picker**)
-       News desk values (Arts, Fashion & Style, Sports)
-	   Sort order (oldest or newest)
+      * Begin Date (**using a date picker**)
+      * News desk values (Arts, Fashion & Style, Sports)
+	  * Sort order (oldest or newest)
 * [x] Subsequent searches will have any filters applied to the search results.
 * [x] User can tap on any article in results to view the contents in an embedded browser.
 
